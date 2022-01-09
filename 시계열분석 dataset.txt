@@ -1,0 +1,5 @@
+Shampoo Sales Dataset
+https://raw.githubusercontent.com/jbrownlee/Datasets/master/shampoo.csv
+
+Minimum Daily Temperature Dataset
+https://raw.githubusercontent.com/jbrownlee/Datasets/master/daily-min-temperatures.csv
